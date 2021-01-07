@@ -19,7 +19,7 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url(../img/Fondo.jpg);
+    background: url(../img/Fondo.svg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
